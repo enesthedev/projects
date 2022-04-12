@@ -14,7 +14,7 @@
     </div>
     <br/>
     <div>
-        <small>C# Courseman</small>
+        <small>Courseman</small>
         <br/>
         <small>This repository based on .NET 6. Takes input values for course, student and academician creation and midterm, final ratios and values. Courseman have two built-in course, academician and student. You can use Courseman like course a CRM, it have everything you need.</small>
     </div>
