@@ -24,4 +24,10 @@
         <br/>
         <small>Another blog clone of some person. Built with NextJS and TailwindCSS. This repository purposing to true component system of React.</small>
     </div>
+	<br/>
+	<div>
+		<small>CSharp Examples</small>
+		<br/>
+		<small>This project have a examples for CSharp beginners. Based on Computer Science University curriculum.</small>
+	</div>
 </div>
