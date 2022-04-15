@@ -30,4 +30,10 @@
 		<br/>
 		<small>This project have a examples for CSharp beginners. Based on Computer Science University curriculum.</small>
 	</div>
+	<br />
+	<div>
+		<small>Kotlin Examples</small>
+		<br />
+		<small>This project have a examples for Kotlin beginners, indexed README file for readirecting project to project. Each project have a own branch in this repository.</small>
+	</div>
 </div>
