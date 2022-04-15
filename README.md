@@ -1,5 +1,6 @@
 <div align="left">
     <h3>My Projects</h3>
+	<sup>Last Updated At: 15.04.2022</sup>
     <hr/>
     <div>
         <small><a href="https://github.com/enesthedev/laravel-multi-language-template">Laravel Multi Language Template</a></small>
